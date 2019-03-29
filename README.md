@@ -6,7 +6,7 @@
     import { reduxForm, Field } from 'redux-form';
   ```
   
-  Submitting with form.
-  Higher Order Component: requireAuth.
-  Auth Header.
-  BrowserRouter.
+ - Submitting with form.
+ - Higher Order Component: requireAuth.
+ - Auth Header.
+ - BrowserRouter.
